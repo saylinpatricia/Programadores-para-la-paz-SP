@@ -1,0 +1,10 @@
+ls
+mkdir semana2
+cd semana2
+nano preguntas-semana2.txt
+nano comandos-terminal.txt
+nano reflexion-semana2.txt
+cd ..
+git add
+git commit -m "actividad semana2"
+git push
