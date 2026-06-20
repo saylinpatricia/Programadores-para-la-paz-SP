@@ -1,0 +1,2 @@
+Esta es una ruta POST que escucha peticiones en el endpoint /reporte. Su función principal es recibir datos enviados por el cliente (a través de req.body.mensaje) y responder con un objeto JSON que confirma la recepción del reporte, devolviendo el mismo mensaje que recibió para validar que la comunicación fue exitosa.
+
