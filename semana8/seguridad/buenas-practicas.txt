@@ -1,0 +1,4 @@
+Activar la autenticación de dos factores (2FA): Añade una capa extra de protección más allá de la contraseña.
+Realizar copias de seguridad periódicas: Asegura tus archivos importantes en la nube o en discos externos.
+Desconfiar de enlaces o archivos adjuntos sospechosos: Evita el phishing no haciendo clic en correos de remitentes desconocidos.
+

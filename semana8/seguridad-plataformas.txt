@@ -1,0 +1,6 @@
+Implementar autenticación de dos factores (2FA): Añadir una capa extra de protección solicitando un código temporal enviado al móvil o correo del usuario.
+Cifrado de datos en reposo y tránsito: Asegurar que toda la información guardada y enviada esté codificada para que nadie externo pueda leerla.
+Actualizaciones periódicas de software: Mantener el sistema y sus complementos al día para corregir vulnerabilidades conocidas de forma inmediata.
+Moderación y reporte de contenido: Establecer herramientas para que la comunidad denuncie comportamientos sospechosos o contenido malicioso automáticamente.
+Copias de seguridad (Backups) frecuentes: Realizar respaldos automáticos de la base de datos para recuperar la información rápidamente en caso de un ataque o fallo técnico.
+
