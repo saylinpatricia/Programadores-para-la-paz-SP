@@ -1,0 +1,12 @@
+¿Qué ocurre cuando ejecutas node server.js? Se inicia el proceso de Node.js, el cual lee el archivo, levanta un servidor web en un puerto específico (comúnmente el 3000 o 5000) y se queda a la escucha de peticiones entrantes.
+
+¿Qué mensaje aparece en la terminal? Aunque depende del código exacto, lo habitual es un mensaje de confirmación como: Servidor corriendo en http://localhost:3000 (o el puerto configurado).
+
+¿Qué sucede cuando visitas la ruta /estado? El servidor recibe la solicitud GET, procesa la ruta y devuelve un objeto en formato JSON con la información del servicio.
+{
+  "status": "online",
+  "uptime": "24h",
+  "version": "1.0.2"
+}
+
+

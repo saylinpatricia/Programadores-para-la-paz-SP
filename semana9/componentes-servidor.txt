@@ -1,0 +1,11 @@
+Sistema operativo: Es el software principal que gestiona el hardware de la computadora y permite que otros programas se ejecuten. Actúa como intermediario entre el usuario y los componentes físicos, administrando recursos como la memoria y el procesador.
+
+Node.js: Es un entorno de ejecución para JavaScript que permite utilizar este lenguaje fuera del navegador, principalmente en el lado del servidor. Se destaca por su capacidad para manejar múltiples conexiones simultáneas de forma eficiente y rápida.
+
+Aplicación server.js: Es el archivo de código fuente que contiene la lógica principal para levantar y configurar un servidor web. Define cómo debe responder el programa ante las peticiones de los usuarios y gestiona las rutas o servicios disponibles.
+
+Puerto: Funciona como un punto de acceso virtual o "puerta" específica en el sistema operativo para canalizar el tráfico de red. Permite que el computador identifique a qué aplicación o servicio exacto debe entregarle los datos que recibe de internet.
+
+Logs: Son registros históricos que almacenan eventos, errores o actividades ocurridas durante la ejecución de un programa. Sirven para monitorear el comportamiento del sistema en tiempo real y facilitar la detección de fallas o problemas técnicos.
+
+
