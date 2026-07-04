@@ -1,0 +1,10 @@
+La plataforma contará con una interfaz intuitiva dividida en las siguientes secciones principales:
+
+Panel de Creación de Causas: Un formulario en la parte superior donde el usuario podrá ingresar el título, una descripción detallada y la fecha límite o de inicio de su iniciativa comunitaria.
+
+Galería de Causas: Una vista central tipo lista o cuadrícula que muestre todas las causas disponibles actualmente para la comunidad.
+
+Interacción y Seguimiento: Cada elemento de la lista incluirá de forma visible:
+• Un botón de "Apoyar" para que los usuarios se sumen a la causa con un solo clic.
+• Un contador de apoyos en tiempo real que refleje la suma total de personas interesadas.
+

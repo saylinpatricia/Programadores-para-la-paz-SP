@@ -1,0 +1,24 @@
+Entidad: Usuario
+
+Campos principales:
+- id (Identificador único)
+- nombre_completo
+- email
+- fecha_registro
+
+Propósito:
+Identificar a las personas que participan en la plataforma y permitirles interactuar con las causas.
+
+
+Entidad: Comentario
+
+Campos principales:
+- id
+- causa_id (Relación con la causa)
+- usuario_id (Relación con el autor)
+- contenido
+- fecha_publicacion
+
+Propósito:
+Permitir la retroalimentación y el diálogo entre los miembros de la comunidad sobre causas específicas.
+
