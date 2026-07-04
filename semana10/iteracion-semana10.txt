@@ -1,0 +1,13 @@
+¿Qué 2 tareas del backlog harías primero?
+Mapa de incidencias: "Como usuario quiero visualizar un mapa de mi sector con las incidencias marcadas..."
+Adjuntar archivos: "Como ciudadano, quiero adjuntar fotos o videos a mi reporte..."
+
+¿Por qué son las más importantes?
+Son las tareas críticas para el funcionamiento base de la aplicación. Sin un mapa, el usuario no tiene contexto visual de los problemas, y sin la capacidad de adjuntar evidencia (fotos/videos), el reporte pierde su valor probatorio y utilidad para las autoridades o veedores.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Para que una tarea se considere finalizada en esta iteración, debe cumplir con:
+• Validación de Código: El código ha sido revisado por un par (Peer Review) y no presenta errores de sintaxis.
+• Pruebas de Usuario: La funcionalidad cumple con los criterios de aceptación y ha sido probada con éxito en un entorno de staging.
+• Documentación y Despliegue: La función está documentada técnicamente y el código ha sido fusionado a la rama principal (main/master) en Git.
+

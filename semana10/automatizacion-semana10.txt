@@ -1,0 +1,12 @@
+Propuesta de Automatización: Recordatorio de Tarea Pendiente
+Este flujo conecta una hoja de cálculo (Google Sheets) con Telegram para alertar sobre fechas límite.
+
+¿Qué evento activa el flujo?
+La llegada de la fecha de vencimiento de una tarea en una fila de Google Sheets (disparador por cronograma o "Schedule" que revisa la hoja diariamente).
+
+¿Qué mensaje se enviaría a Telegram?
+"⚠️ Recordatorio: Tienes una tarea pendiente que vence hoy: [Nombre de la Tarea]. Por favor, actualiza el estado en el portal."
+
+¿Qué información no debería enviarse por seguridad?
+No deben enviarse credenciales de acceso al sistema, enlaces directos a documentos privados sin autenticación, ni datos personales del cliente (como RUT/DNI o correos electrónicos personales).
+

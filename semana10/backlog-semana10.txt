@@ -1,0 +1,10 @@
+Como ciudadano, quiero adjuntar fotos o videos a mi reporte para que la evidencia del caso sea indiscutible.
+
+Como veedor comunitario quiero asignar un estado (pendiente, en proceso, resuelto) a cada reporte para informar a la comunidad sobre el avance de las gestiones.
+
+Como usuario quiero visualizar un mapa de mi sector con las incidencias marcadas para identificar las zonas con mayores problemas de infraestructura.
+
+Como administrador quiero generar un reporte mensual en PDF con las estadísticas de incidencias para presentarlo en las asambleas locales.
+
+Como vecino quiero recibir una notificación push cuando se resuelva un reporte en mi barrio para estar al tanto de las mejoras en mi entorno.
+
