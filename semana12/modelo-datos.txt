@@ -1,0 +1,12 @@
+Causa: Entidad que almacena la información principal de la iniciativa
+id
+titulo
+descripcion
+fecha
+
+Apoyo: Entidad que vincula a un usuario con una causa específica para registrar su respaldo
+id
+causa_id 
+nombre
+fecha
+

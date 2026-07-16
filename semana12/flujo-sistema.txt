@@ -1,0 +1,10 @@
+1. Un ciudadano ingresa al sistema y registra una causa social.
+
+2. La información de la causa se almacena automáticamente en la base de datos.
+
+3. Otros ciudadanos visualizan la causa y registran su apoyo.
+
+4. El sistema contabiliza en tiempo real los apoyos recibidos.
+
+5. Se genera un documento PDF formal con el resumen de la petición y los apoyos.
+

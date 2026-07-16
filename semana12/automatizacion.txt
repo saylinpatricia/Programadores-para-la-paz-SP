@@ -1,0 +1,7 @@
+Evento: Nueva causa registrada.
+
+Mensaje: "Se ha registrado una nueva causa en la plataforma. ¡Revisa y apoya!"
+
+Seguridad: No enviar nunca datos sensibles como números de cédula, direcciones exactas, teléfonos personales o comentarios que vulneren la privacidad de los ciudadanos.
+
+
